@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 /* eslint-disable no-undef */
 /* eslint-disable prefer-template */
 /* eslint-disable operator-assignment */
@@ -48,6 +49,7 @@ TODO: DO NOT assign it a value.
 */
 
 // * Add your code BELOW here
+let myName;
 
 // * Don't mess with the test code below here!
 
@@ -71,6 +73,7 @@ TODO: number literal value of integer 22.
 */
 
 // * Add your code BELOW here
+let age = 22;
 
 // * Don't mess with the test code below here!
 
@@ -93,6 +96,7 @@ TODO: the number literal value 7.
 */
 
 // * Add your code BELOW here
+const daysInWeek = 7;
 
 // * Don't mess with the test code below here!
 
@@ -127,6 +131,8 @@ TODO: of one varaible to a different variable.
 */
 
 // * Add your code BELOW here
+let myWorkDays;
+myWorkDays = daysInWeek;
 
 // * Don't mess with the test code below here!
 
@@ -158,6 +164,9 @@ TODO: (using the * operator for multiplication).
 */
 
 // * Add your code BELOW here
+let oops;
+let sillyMath;
+sillyMath = oops * 2;
 
 // * Don't mess with the test code below here!
 
@@ -185,6 +194,8 @@ TODO: In the second line, assign sillyString to 'Hello, ' and concatenate oops t
 */
 
 // * Add your code BELOW here
+let sillyString;
+sillyString = 'Hello, ' + oops;
 
 // * Don't mess with the test code below here!
 

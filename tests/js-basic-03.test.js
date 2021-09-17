@@ -29,6 +29,7 @@ TODO: to the boolean value true.
 */
 
 // * Add your code BELOW here
+let isSeptember = true;
 
 // * Don't mess with the test code below here!
 
@@ -59,6 +60,7 @@ TODO: Do not use the reserved word false.
 */
 
 // * Add your code BELOW here
+let isFalsy = -0;
 
 // * Don't mess with the test code below here!
 
@@ -84,6 +86,7 @@ TODO: Do not use the reserved word true.
 */
 
 // * Add your code BELOW here
+let isTruthy = 'Programmers should not be trusted to name things.';
 
 // * Don't mess with the test code below here!
 
@@ -107,6 +110,7 @@ TODO: unassigned.
 */
 
 // * Add your code BELOW here
+let notAssigned;
 
 // * Don't mess with the test code below here!
 
@@ -132,6 +136,7 @@ TODO: null.
 */
 
 // * Add your code BELOW here
+let bloop = null;
 
 // * Don't mess with the test code below here!
 
