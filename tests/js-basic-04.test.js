@@ -105,7 +105,7 @@ TODO: Make sure to round down the value to the nearest integer.
 */
 
 // * Add your code BELOW here
-let randomInt = Math.floor(Math.random() * 6);
+let randomInt = Math.floor(Math.random() * 5);
 
 // * Don't mess with the test code below here!
 
